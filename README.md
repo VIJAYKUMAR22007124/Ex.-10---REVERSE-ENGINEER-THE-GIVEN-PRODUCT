@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/VIJAYKUMAR22007124/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119657657/b3ebb39a-1e0c-4556-a358-492d9f8916c6)
+
+
 ### Output:
 
+![image](https://github.com/VIJAYKUMAR22007124/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119657657/5efd6b5b-741e-41ef-b6d1-ac753e85056a)
 
-### Name:
-### Register Number:
+### Name: B.VIJAY KUMAR
+### Register Number:212222230173
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
